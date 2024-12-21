@@ -8,7 +8,7 @@ Build a <b>Chatbot Playground App</b> with Python, Streamlit, and Groq.
 
 <a href="https://youtu.be/ooeP4itiTIg">YouTube Video</a>
 
-# Cloning
+## Cloning
 
 To clone the repo run thi in your terminal: `git clone https://github.com/AbeTavarez/Chatbot-Playground.git`
 
