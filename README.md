@@ -19,3 +19,9 @@ Follow the step-by-step tutorial here:
 You can get your <b>FREE</b> API Key here <a href="https://console.groq.com/login" target="_blank">Groq Cloud</a>
 
 <b>Don't forget to leave me a start and a like, Thanks for your support!</b> 
+
+## Docs
+
+[Streamlit API Reference](https://docs.streamlit.io/develop/api-reference)
+
+[Groq API Reference](https://console.groq.com/docs/overviewe)
