@@ -2,7 +2,7 @@
 
 ![Chatbot Playground](./AI%20Stocks%20Application%20(12).png)
 
-# Description
+## Description
 
 Build a <b>Chatbot Playground App</b> with Python, Streamlit, and Groq.
 
