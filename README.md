@@ -1,4 +1,4 @@
-# Chatbot Playground
+# Chatbot Playground with Streamlit and Groq
 
 ![Chatbot Playground](./AI%20Stocks%20Application%20(12).png)
 
@@ -6,8 +6,11 @@
 
 Build a <b>Chatbot Playground App</b> with Python, Streamlit, and Groq.
 
-Follow the step-by-step tutorial here:
-<a href="https://youtu.be/ooeP4itiTIg">YouTube Video</a>
+### Follow the step-by-step tutorial here:
+
+<a href="https://youtu.be/ooeP4itiTIg">
+    <img src="./yt_logo_rgb_dark.png" alt="youtube logo"/>
+</a>
 
 ## Cloning
 
