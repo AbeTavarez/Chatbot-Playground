@@ -77,7 +77,7 @@ if prompt := st.chat_input():
             stream=stream,
             temperature=temp,
             max_tokens=max_tokens,
-            response_format= {"type": "json_format"} if json_mode else {"type": "text"},
+            response_format= {"type": "json_object"} if json_mode else {"type": "text"},
             stop=stop_seq,
             top_p=top_p
         )
